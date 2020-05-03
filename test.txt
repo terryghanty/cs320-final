@@ -1,3 +1,0 @@
-hello.  Its me.
-stop.
-ls
